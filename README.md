@@ -1,5 +1,5 @@
 # GUNBOY
-Pada Tugas Besar Pemrograman Berorientasi Objek (PBO), kita diperintahkan untuk membuat sebuah game dengan bahasa Python dn menggunakan GUI Pygame.Untuk nama game yang kami buat adalah GunBoy. Nama "GunBoy" terinspirasi dari kombinasi dua elemen yang berbeda yakni senjata api (gun) dan karakter pemain pria (boy). Nama tersebut mencerminkan penggunaan senjata oleh karakter utama dalam permainan, yang kemungkinan akan berfokus pada aksi, dan pertempuran yang melibatkan penggunaan senjata. Nama ini juga bisa mengesankan gaya permainan yang lebih berorientasi pada karakter pria atau pemain laki-laki sebagai protagonis utama.
+Pada Tugas Besar Pemrograman Berorientasi Objek (PBO), kita diperintahkan untuk membuat sebuah game dengan bahasa Python dan menggunakan GUI Pygame. Untuk nama game yang kami buat adalah GunBoy. Nama "GunBoy" terinspirasi dari kombinasi dua elemen yang berbeda yakni senjata api (gun) dan karakter pemain pria (boy). Nama tersebut mencerminkan penggunaan senjata oleh karakter utama dalam permainan, yang kemungkinan akan berfokus pada aksi, dan pertempuran yang melibatkan penggunaan senjata. Nama ini juga bisa mengesankan gaya permainan yang lebih berorientasi pada karakter pria atau pemain laki-laki sebagai protagonis utama.
 
 
 # Anggota Kelompok
